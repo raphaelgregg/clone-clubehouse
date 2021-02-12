@@ -1,0 +1,22 @@
+:root {
+  --bg-yellow-50: #fffbeb;
+  --bg-yellow-100: #feffc7;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.avatar {
+  width: 2.81rem;
+  height: 2.81rem;
+  border-radius: 50%;
+  border: solid red 2px;
+}

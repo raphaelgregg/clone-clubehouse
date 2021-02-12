@@ -6,8 +6,8 @@
 
 ## Techs
 
-[] HTML
-[] TailwindCSS
+* [ ] HTML
+* [ ] TailwindCSS
 
 ## Author
 
