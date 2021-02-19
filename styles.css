@@ -9,14 +9,29 @@
   box-sizing: border-box;
 }
 
-html,
-body {
+html {
   font-family: "Poppins", sans-serif;
 }
 
-.avatar {
-  width: 2.81rem;
-  height: 2.81rem;
-  border-radius: 50%;
-  border: solid red 2px;
+body {
+  background: #4f4faa;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Poppins", sans-serif;
+  /* color: var(--title-color); */
+}
+
+.rounded-content {
+  border-radius: 50px 50px 0 0;
 }
