@@ -2,7 +2,9 @@
 
 ## Demonstration
 
-<img src="./.github/clubhouse.png" alt="Exemplo">
+<p>
+<img src="./.github/clube.png" alt="clone">
+</p>
 
 ## Techs
 
